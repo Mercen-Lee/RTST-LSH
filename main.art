@@ -1,0 +1,6 @@
+input "speech";
+output "speak";
+
+인사하기 {
+    
+}
